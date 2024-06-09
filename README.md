@@ -1,4 +1,4 @@
-# turbofetch
+# Turbofetch
 Stat displaying program written in... Turbowarp...
 
 ![A screenshot of Turbofetch](/screenshot.png
